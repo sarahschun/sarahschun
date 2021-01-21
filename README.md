@@ -1,5 +1,5 @@
-<h2> Hi, I'm Sarah Chun! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Sarah Chun! <img src="" width="50"></h2>
+<img align='right' src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png" width="230">
 <p><em>Currently, a 1st year Computer Engineering student at <a href="http://www.unb.br">University of Waterloo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Applications Developer Co-op at <a href="https://www.toyota.ca">Toyota</a>
 </em></p>
 
