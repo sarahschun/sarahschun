@@ -25,6 +25,5 @@
 <p align="left">
 <a href="https://github.com/sarahschun" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
 <a href="https://open.spotify.com/user/1gkbf7z1t1lxnujp9x5nkmfy4?si=SgHoq90oT6qXlOs8vYFTng" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spotify.svg" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
-
 <a href="https://www.linkedin.com/in/sarah-chun02/" target="blank"><img src="https://simpleicon.com/wp-content/uploads/linkedin.png" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
 </p>
