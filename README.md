@@ -7,7 +7,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/sarahschun?label=follow&style=social)](https://github.com/sarahschun)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/mushroom_1f344.png" width="50"> A little more about me...  
 
 ```javascript
 
