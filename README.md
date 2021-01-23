@@ -20,3 +20,12 @@
  <img src="https://github-readme-stats.vercel.app/api?username=sarahschun&show_icons=true" alt="Sarah's Github Stats"></img>
  
 ---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/sarahschun" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://speakerdeck.com/hellorusk" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/speakerdeck.svg" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://open.spotify.com/user/1gkbf7z1t1lxnujp9x5nkmfy4?si=SgHoq90oT6qXlOs8vYFTng" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spotify.svg" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://qiita.com/HelloRusk" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/qiita.svg" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://zenn.dev/hellorusk" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/zenn.svg" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+</p>
