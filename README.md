@@ -13,7 +13,7 @@
 
   pronouns: "she" | "her"
   code: [C++, HTML, CSS, Python, Java],
-  tools: [React, Node, Firebase],
+  reading: [crime & punishment}
   current challenge: "I am doing the #100DaysOfCode challenge using Python"
 
 ```
