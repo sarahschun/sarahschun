@@ -17,6 +17,8 @@
 
 ```
  <img src="https://github-readme-stats.vercel.app/api?username=sarahschun&show_icons=true" alt="Sarah's Github Stats"></img>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=sarahschun&layout=compact&theme=dark&exclude_repo=PointofSale,pumpnewwebsite,coding-challenge&hide=HTML&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
  
 ---
 
