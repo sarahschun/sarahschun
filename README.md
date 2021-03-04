@@ -13,7 +13,7 @@
 
   pronouns: "she" | "her"
   code: [C++, HTML, CSS, Python, Java],
-  current challenge: "I am doing the #100DaysOfCode challenge using Python"
+  
 
 ```
  <img src="https://github-readme-stats.vercel.app/api?username=sarahschun&show_icons=true" alt="Sarah's Github Stats"></img>
