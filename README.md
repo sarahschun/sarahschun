@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: Sarah Chun](https://img.shields.io/twitter/follow/sarahchun02?style=social)](https://twitter.com/sarahchun02)
-[![GitHub Thaiane](https://img.shields.io/github/followers/sarahschun?label=follow&style=social)](https://github.com/sarahschun)
+
 
 
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/mushroom_1f344.png" width="30"> A little more about me...  
